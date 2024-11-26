@@ -1,0 +1,8 @@
+jupyter
+torch
+torchvision
+torchaudio
+scikit-learn
+pandas
+numpy
+matplotlib
